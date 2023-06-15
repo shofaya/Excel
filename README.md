@@ -15,9 +15,12 @@ Tableau Visualization
 
 
 ! [Dshboard] ![Screenshot (1)](https://github.com/shofaya/Excel/assets/50599405/b0e3e7a9-126d-48bd-916c-8da4546e8d90)
-()![Screenshot (8)](https://github.com/shofaya/Excel/assets/50599405/925945a4-b0fb-4876-9926-0d18a36eaaa6)
-![Screenshot (18)](https://github.com/shofaya/Excel/assets/50599405/9d5ef74c-b6ff-40b5-a87c-b406
-![Screenshot (19)](https://github.com/shofaya/Excel/assets/50599405/b003e518-4701-4f9a-9a2c-2ef62460eae8)
-107c53fe)
+![Screenshot (6)](https://github.com/shofaya/Excel/assets/50599405/6c39f5ca-43e0-4ea7-be58-be85778217d9)
+![Screenshot (8)](https://github.com/shofaya/Excel/assets/50599405/925945a4-b0fb-4876-9926-0d18a36eaaa6)
+![Screenshot (12)](https://github.com/shofaya/Excel/assets/50599405/90a69961-f4fb-4ca8-8a7a-46393f43b142)
+![Screenshot (18)](https://github.com/shofaya/Excel/assets/50599405/9d5ef74c-b6ff-40b5-a87c-b406107c53fe)
+
+
+
 
 
